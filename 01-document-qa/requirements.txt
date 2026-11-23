@@ -1,0 +1,3 @@
+# 无第三方依赖（切分、检索、HTTP 均用标准库）
+# 接真实检索/生成后可加：openai、sentence-transformers
+# HTTP 服务换 FastAPI 后可加：fastapi、uvicorn
