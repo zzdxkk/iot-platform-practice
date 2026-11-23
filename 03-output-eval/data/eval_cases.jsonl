@@ -1,0 +1,8 @@
+{"id": "e1", "input": "年假几天", "reference": "5 天", "tags": ["hr"]}
+{"id": "e2", "input": "住宿标准", "reference": "500 元", "tags": ["fin"]}
+{"id": "e3", "input": "报销多久到账", "reference": "3 个工作日", "tags": ["fin"]}
+{"id": "e4", "input": "VPN 连不上", "reference": "先检查客户端版本，再重置令牌", "tags": ["it"]}
+{"id": "e5", "input": "发票丢了", "reference": "提交情况说明后可补办", "tags": ["fin"]}
+{"id": "e6", "input": "入职要带什么", "reference": "身份证、学历证明、体检报告", "tags": ["hr"]}
+{"id": "e7", "input": "访客怎么进门", "reference": "前台登记并联系被访人确认", "tags": ["admin"]}
+{"id": "e8", "input": "报销单谁审批", "reference": "直属主管审批后由财务复核", "tags": ["fin"]}
